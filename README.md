@@ -1,0 +1,1 @@
+Code to scrape data from the [Proceedings of the Canadian Engineering Education Association (CEEA)](https://ojs.library.queensu.ca/index.php/PCEEA/) using search criteria.
